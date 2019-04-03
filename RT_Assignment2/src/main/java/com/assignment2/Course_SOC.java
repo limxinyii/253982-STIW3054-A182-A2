@@ -48,9 +48,7 @@ public class Course_SOC extends readPdf implements Runnable {
 	                	if(line.contains("STIN")) {
 	                		System.out.println("\n"+line);
 	                	}
-	                	if(line.contains("STIV")) {
-	                		System.out.println("\n"+line);
-	                	}
+
 	                	if(line.contains("STIW")) {
 	                		System.out.println("\n"+line);
 	                	}
