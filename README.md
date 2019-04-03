@@ -34,3 +34,5 @@ https://www.mkyong.com/java/pdfbox-how-to-read-pdf-file-in-java/
 https://stackoverflow.com/questions/2312756/how-to-read-a-specific-line-using-the-specific-line-number-from-a-file-in-java
 3. The Apache PDFBox library is an open source Java tool for working with PDF documents.
 https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox/1.8.1
+4. The contains() method is Java method to check if String contains another substring or not. It returns boolean value so it can use directly inside if statements.
+https://www.guru99.com/string-contains-method-java.html
