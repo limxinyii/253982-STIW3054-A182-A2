@@ -20,7 +20,7 @@ Analyze the file and generate the following output using FIVE (5) threads:
 ![output1](https://github.com/limxinyii/253982-STIW3054-A182-A2/blob/master/output1.JPG)
 ![output2](https://github.com/limxinyii/253982-STIW3054-A182-A2/blob/master/output2.JPG)
 ![output3](https://github.com/limxinyii/253982-STIW3054-A182-A2/blob/master/output3.JPG)
-![output4](https://github.com/limxinyii/253982-STIW3054-A182-A2/blob/master/output4.JPG)
+
 
 ## 4. UML Class Diagram
 ![classDiagram](https://github.com/limxinyii/253982-STIW3054-A182-A2/blob/master/classDiagram.jpg)
