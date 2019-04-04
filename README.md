@@ -26,13 +26,18 @@ Analyze the file and generate the following output using FIVE (5) threads:
 ![classDiagram](https://github.com/limxinyii/253982-STIW3054-A182-A2/blob/master/classDiagram.jpg)
 
 ## 5. YouTube Presentation
+https://www.youtube.com/watch?v=6gZA8h_B01M
 
 ## 6. References
-1. PDFBox – How to read PDF file in Java.
+1. MKYong, (2017, July 24). PDFBox – How to read PDF file in Java.
 https://www.mkyong.com/java/pdfbox-how-to-read-pdf-file-in-java/
-2. How to read a specific line using the specific line number from a file in Java.
+2. Azeem Tariq, (2018). PDFBox Example Code: How to Extract Text From PDF file with java
+https://radixcode.com/pdfbox-example-code-how-to-extract-text-from-pdf-file-with-java
+3. How to read a specific line using the specific line number from a file in Java.
 https://stackoverflow.com/questions/2312756/how-to-read-a-specific-line-using-the-specific-line-number-from-a-file-in-java
-3. The Apache PDFBox library is an open source Java tool for working with PDF documents.
+4. The Apache PDFBox library is an open source Java tool for working with PDF documents.
 https://mvnrepository.com/artifact/org.apache.pdfbox/pdfbox/1.8.1
-4. The contains() method is Java method to check if String contains another substring or not. It returns boolean value so it can use directly inside if statements.
+5. How to extract text line by line from PDF document. Use PDFTextStripper. Method 2-writeString to extract text line by line from PDF document.
+https://www.tutorialkart.com/pdfbox/extract-text-line-by-line-from-pdf/
+6. The contains() method is Java method to check if String contains another substring or not. It returns boolean value so it can use directly inside if statements.
 https://www.guru99.com/string-contains-method-java.html
